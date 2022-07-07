@@ -23,7 +23,7 @@ Separatly:
 ```bash
 ./calc
 ```
- ### TASK1
+ ### TASK2
  ```bash
  ./converter
  ``` 
